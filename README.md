@@ -17,6 +17,7 @@ Local development setup and Dotfiles
 	- isort
 	- flake8
 	- black
+	- pre-commit
 
 ## Notes
 - Remove iTerm Bell
